@@ -3,7 +3,7 @@
   <assemblyIdentity
     version="1.0.0.0"
     processorArchitecture="X86"
-    name="YourAppName"
+    name="mttrcfile"
     type="win32"/>
   <description>Your App Description</description>
   
@@ -17,4 +17,5 @@
       </requestedPrivileges>
     </security>
   </trustInfo>
+
 </assembly>
